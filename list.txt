@@ -1,1 +1,1 @@
-test ^ https://github.com/Ccode-lang/actions
+debug ^ https://github.com/Ccode-lang/debug
