@@ -1,6 +1,6 @@
 # pack-list
 package listing for reppack.  
-If you have a package that you want ot put in the package manager then this is the data syntax.  
+If you have a package that you want to put in the package manager then this is the data syntax.  
 # Comments
 Comments start with `$`.
 # Data entry
